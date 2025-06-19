@@ -9,8 +9,6 @@ This repository contains simple Python programs that demonstrate the use of **co
 
 ---
 
-## 📁 Contents
-
 ### 1. **Student Information**
 Collects and displays student details using dictionaries and lists.  
 - Input: Name, section, program, hobbies, birth year  
